@@ -1,0 +1,1 @@
+# BangumiTidy
